@@ -1,2 +1,5 @@
 # Data Availability Statement
-all data necessary to replicate their study’s findings
+All data necessary to replicate our study’s findings 
+
+## License
+This project is licensed under the Creative Commons Attribution 4.0 International License

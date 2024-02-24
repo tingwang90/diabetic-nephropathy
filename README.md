@@ -2,4 +2,4 @@
 All data necessary to replicate our study’s findings 
 
 ## License
-This project is licensed under the Creative Commons Attribution 4.0 International License
+This project is licensed under the CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
